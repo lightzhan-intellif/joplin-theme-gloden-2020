@@ -1,11 +1,14 @@
 ## Introdution
+
+[download](https://github.com/lightzhan/joplin-theme-gloden-2020/archive/master.zip)
+
 This is my Joplin CSS profile. Joplin is a nice notebook app, and I have used it for almost two years. This repository is a markdown typesetting profile of it.
 
 ![example picture](pic/example.png)
 
 ## How to use?
 
-[download](https://github.com/lightzhan/joplin-theme-gloden-2020/archive/master.zip)
+
 
 Because I use the portable version of Joplin, so I tell how to use with it. For others, maybe it is similar or you can find the method [here](https://joplinapp.org/) or [forum](https://discourse.joplinapp.org/).
 1. Download the project (use git or download .zip file)
