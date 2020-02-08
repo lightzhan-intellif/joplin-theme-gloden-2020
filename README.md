@@ -12,4 +12,4 @@ Because I use the portable version of Joplin, so I tell how to use with it. For 
 ## Any problem?
 [This](https://lightzhan.github.io/) is my blog, you can contact me there or post a issue here.
 
-**If you like the project, Don's forget to Fork it or Star it!** :)
+**If you like the project, Don't forget to Fork it or Star it!** :)
