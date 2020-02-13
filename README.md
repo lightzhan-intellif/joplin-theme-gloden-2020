@@ -1,4 +1,4 @@
-## Introdution
+## Introduction
 
 [download](https://github.com/lightzhan/joplin-theme-gloden-2020/archive/master.zip)
 
