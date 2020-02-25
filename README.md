@@ -16,6 +16,6 @@ Because I use the portable version of Joplin, so I tell how to use with it. For 
 3. Restart Joplin. All done!
 
 ## Any problem?
-[This](https://lightzhan.github.io/) is my blog, you can contact me there or post a issue here.
+[This](http://lightzhan.xyz/) is my blog, you can contact me there or post a issue here.
 
 **If you like the project, Don't forget to Fork it or Star it!** :)
